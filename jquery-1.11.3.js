@@ -1,4 +1,3 @@
-https://msquarebeauty.com/Web/js/jquery-1.11.3.js
 
 /*!
  * jQuery JavaScript Library v1.11.3
